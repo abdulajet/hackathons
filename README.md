@@ -12,6 +12,8 @@ A list of hackathons & game jams I have attended:
 | Hackference   | Volunteer     | This hackathon followed a very informative conference day. Sadly it is the last...     |
 | AstonHack     | Hacker        | I enjoyed being back in Birmingham again. Lots of Geese everywhere, including the hacks! |
 | OxfordHack    | Hacker        | Magical weekend at Oxford, my team's hack was a CDN built with AWS and Node.Js. More info here: https://devpost.com/software/project-cambridge |
-| HackKings     | Volunteer     | As well as volunteering, I had the opportunity to take 4 students to their first hackathon! |
+| HackKings     | Volunteer     | As well as volunteering, I had the opportunity to take 4 students to their first hackathon!|
 | MLH Local Hack Day | Organiser | This was the first hackathon I organised. I also ran an Android workshop. Pictures from the event can be found here: http://bit.ly/citylhd |
+| Porticode     | Mentor       | It was great to help people with coding issues over the weekend. I also took some time to take a look at http://vapor.codes/|
+
 
