@@ -16,7 +16,7 @@ A list of hackathons & game jams I have attended:
 | MLH Local Hack Day | Organiser | This was the first hackathon I organised. I also ran an Android workshop. Pictures from the event can be found here: http://bit.ly/citylhd |
 | Porticode     | Mentor       | It was great to help people with coding issues over the weekend. I also took some time to take a look at http://vapor.codes/|
 | Hack the Holidays | Hacker    | For this holiday themed hackathon my team and I created a hotline to call to determine whether a song is Christmas theme or not. More info here: https://devpost.com/software/get-out|
-| Global Game Jam '17 | Organiser    | I was very impressed with the quality of games that came out of out game jam. I feel privileged to have been able to give students the oppotunity to collaborate over the weekend.  |
+| Global Game Jam '17 | Organiser    | I was very impressed with the quality of games that came out of out game jam. I feel privileged to have been able to give students the oppotunity to collaborate over the weekend. Games available here: http://globalgamejam.org/2017/jam-sites/city-university-london|
 
 
 
