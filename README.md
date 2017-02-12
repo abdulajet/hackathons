@@ -21,4 +21,6 @@ A list of hackathons & game jams I have attended:
 | ICHack     | Hacker       | ICHack great! I helped a society member build a simple Pusher demonstration in Android as well as applying and preparing for internships.|
 
 
+Count: 16
+
 
