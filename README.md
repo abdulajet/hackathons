@@ -19,8 +19,10 @@ A list of hackathons & game jams I have attended:
 | Global Game Jam '17 | Organiser    | I was very impressed with the quality of games that came out of out game jam. I feel privileged to have been able to give students the opportunity to collaborate over the weekend. Games available here: http://globalgamejam.org/2017/jam-sites/city-university-london|
 | Durhack     | Hacker       | This weekend was spent familarising myself with the CocoaPods package manager as well as running my introduction to iOS and Android workshops back-to-back!. I also enjoyed being so far north and meeting the only Uber driver in Durham, Russell!|
 | ICHack     | Hacker       | ICHack great! I helped a society member build a simple Pusher demonstration in Android as well as applying and preparing for internships.|
+| HackUPC Winter 17     | Hacker       | This was my first trip to Barcelona! Had fun exploring before and after the hackathon. During the hackathon my team and I built a gif library. More info here: https://devpost.com/software/gif-palette |
+| StudentHack V         | Volunteer       | I travelled up to Manchester with 7 other society members to help out the StudentHack team run an awesome hack. |
 
 
-Count: 16
+Count: 18
 
 
