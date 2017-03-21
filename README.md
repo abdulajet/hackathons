@@ -21,8 +21,8 @@ A list of hackathons & game jams I have attended:
 | ICHack     | Hacker       | ICHack great! I helped a society member build a simple Pusher demonstration in Android as well as applying and preparing for internships.|
 | HackUPC Winter 17     | Hacker       | This was my first trip to Barcelona! Had fun exploring before and after the hackathon. During the hackathon my team and I built a gif library. More info here: https://devpost.com/software/gif-palette |
 | StudentHack V         | Volunteer       | I travelled up to Manchester with 7 other society members to help out the StudentHack team run an awesome hack. |
+| HackTheBurgh '17    | Hacker       | HTB was a great hackathon in an awesome city. I hacked my coursework this weekend. |
 
-
-Count: 18
+Count: 19
 
 
