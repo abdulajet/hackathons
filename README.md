@@ -24,6 +24,6 @@ A list of hackathons & game jams I have attended:
 | HackTheBurgh '17    | Hacker       | HTB was a great hackathon in an awesome city. I hacked my coursework this weekend. |
 | HackCity '17    | Organiser       | This was my first experience organising a 24 hour hackathon. Was fun and tiring, amazing to see everyones hacks at the end. We even had hackers from Edinburgh and France! |
 
-Count: 19
+Count: 20
 
 
