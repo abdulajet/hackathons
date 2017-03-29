@@ -1,5 +1,5 @@
 # Hackathons
-A list of hackathons & game jams I have attended:
+As of 26th March 2017 I have attended 20 hackathons and game jams. 11 as a participant, 6 as a mentor/volunteer and organised 3. Here is a list of all of them:
 
 | Name          | Role          | Info  |
 |:------------- |:------------- |:----- |
@@ -23,7 +23,5 @@ A list of hackathons & game jams I have attended:
 | StudentHack V         | Volunteer       | I travelled up to Manchester with 7 other society members to help out the StudentHack team run an awesome hack. |
 | HackTheBurgh '17    | Hacker       | HTB was a great hackathon in an awesome city. I hacked my coursework this weekend. |
 | HackCity '17    | Organiser       | This was my first experience organising a 24 hour hackathon. Was fun and tiring, amazing to see everyones hacks at the end. We even had hackers from Edinburgh and France! I also had time to run my beginner iOS workshop|
-
-Count: 20
 
 
