@@ -24,4 +24,6 @@ As of 26th March 2017 I have attended 20 hackathons and game jams. 11 as a parti
 | HackTheBurgh '17    | Hacker       | HTB was a great hackathon in an awesome city. I hacked my coursework this weekend. |
 | HackCity '17    | Organiser       | This was my first experience organising a 24 hour hackathon. Was fun and tiring, amazing to see everyones hacks at the end. We even had hackers from Edinburgh and France! I also had time to run my beginner iOS workshop|
 
+Please feel free to fork this repo and start your own list! If you need any help tweet me: [@abdulajet](http://twitter.com/abdulajet)
+
 
