@@ -1,5 +1,5 @@
 # Hackathons
-I have attended 23 hackathons and game jams. 13 as a participant, 7 as a mentor/volunteer and organised 3. Here is a list of all of them:
+I have attended 24 hackathons and game jams. 13 as a participant, 8 as a mentor/volunteer and organised 3. Here is a list of all of them:
 
 | Name          | Role          | Info  |
 |:------------- |:------------- |:----- |
@@ -26,6 +26,7 @@ I have attended 23 hackathons and game jams. 13 as a participant, 7 as a mentor/
 | MLH Prime    | Volunteer    | MLH Prime was held at Bloomberg LP's amazing London office. As well as helping out when needed I ran my iOS workshop for attendees.|
 | AnvilHack III  | Hacker       | It was great being back at AnvilHack. This time my team and I built a version of flappy bird that you controlled with your voice through a Twilio conference call. We won the prize for the best use of AWS. |
 | UKGovHack  | Hacker       | Worked on my Starling Bank Menu Bar app |
+| Zoo Hackathon '17 | Volunteer     | Returned to the Zoo this year to lend a hand. |
 
 Please feel free to fork this repo and start your own list! If you need any help tweet me: [@abdulajet](http://twitter.com/abdulajet)
 
