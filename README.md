@@ -13,8 +13,8 @@ I have attended 26 hackathons and game jams. 15 as a participant, 8 as a mentor/
 | AstonHack     | Hacker        | I enjoyed being back in Birmingham again. Lots of Geese everywhere, including the hacks! |
 | OxfordHack    | Hacker        | Magical weekend at Oxford, my team's hack was a CDN called [Project Cambridge](https://devpost.com/software/project-cambridge) built with AWS and Node.Js.|
 | HackKings     | Volunteer     | As well as volunteering, I had the opportunity to take 4 students to their first hackathon!|
-| MLH Local Hack Day | Organiser | This was the first hackathon I organised. I also ran an Android workshop. Pictures from the event can be found here: http://bit.ly/citylhd |
-| Porticode     | Mentor       | It was great to help people with coding issues over the weekend. I also took some time to take a look at http://vapor.codes/|
+| MLH Local Hack Day | Organiser | This was the first hackathon I organised. I also ran an Android workshop. [Pictures from the event](http://bit.ly/citylhd).  |
+| Porticode     | Mentor       | It was great to help people with coding issues over the weekend. I also took some time to take a look at [server side Swift](http://vapor.codes/) |
 | Hack the Holidays | Hacker    | For this holiday themed hackathon my team and I created a [hotline](https://devpost.com/software/get-out) to call to determine whether a song is Christmas theme or not.|
 | Global Game Jam '17 | Organiser    | I was very impressed with the quality of games that came out of out game jam. I feel privileged to have been able to give students the opportunity to collaborate over the weekend. [Games available here](http://globalgamejam.org/2017/jam-sites/city-university-london)|
 | Durhack     | Hacker       | This weekend was spent familarising myself with the CocoaPods package manager as well as running my introduction to iOS and Android workshops back-to-back!. I also enjoyed being so far north and meeting the only Uber driver in Durham, Russell!|
