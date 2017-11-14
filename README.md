@@ -1,5 +1,5 @@
 # Hackathons
-I have attended 26 hackathons and game jams. 15 as a participant, 8 as a mentor/volunteer and organised 3. Here is a list of all of them:
+I have attended 28 hackathons and game jams. 16 as a participant, 9 as a mentor/volunteer and organised 3. Here is a list of all of them:
 
 | Name          | Role          | Info  |
 |:------------- |:------------- |:----- |
@@ -29,6 +29,8 @@ I have attended 26 hackathons and game jams. 15 as a participant, 8 as a mentor/
 | Zoo Hackathon '17 | Volunteer     | Returned to the Zoo this year to lend a hand. |
 | HackUPC Fall '17 | Hacker     | My team and I worked on [Koh](https://twitter.com/KohAbsorber). It is a twitter bot that puts your face on a funny stock image. |
 | Hackference '17 | Hacker     | Was great to return to the final hackfernce again. I started work on [HubBub](https://github.com/abdulajet/hubbub). A GitHub app that does push notifications to help with the Campus Experts Training |
+| Porticode 2.0    | Mentor       | Got to return to Porticode as a mentor and help people over the weekend. I also ran a workshop about making [contributions on GitHub](https://github.com/abdulajet/PorticodeGuestbook).  |
+| AstonHack 3   | Hacker    | Spent the weekend 3D printing and learning quite a bit about dinosaurs.|
 
 Please feel free to fork this repo and start your own list! If you need any help tweet me: [@abdulajet](http://twitter.com/abdulajet)
 
