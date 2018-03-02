@@ -1,5 +1,5 @@
 # Hackathons
-I have attended 30 hackathons and game jams. 17 as a participant, 9 as a mentor/volunteer and organised 4. Here is a list of all of them:
+I have attended 33 hackathons and game jams. 17 as a participant, 10 as a mentor/volunteer and organised 6. Here is a list of all of them:
 
 | Name                | Role       | Info  |
 |:------------------- |:---------- |:----- |
@@ -16,14 +16,14 @@ I have attended 30 hackathons and game jams. 17 as a participant, 9 as a mentor/
 | Local Hack Day '16  | Organiser  | This was the first hackathon I organised. I also ran an Android workshop. [Pictures from the event](http://bit.ly/citylhd).  |
 | Porticode           | Mentor     | It was great to help people with coding issues over the weekend. I also took some time to take a look at [server side Swift](http://vapor.codes/) |
 | Hack the Holidays   | Hacker     | For this holiday themed hackathon my team and I created a [hotline](https://devpost.com/software/get-out) to call to determine whether a song is Christmas theme or not.|
-| Global Game Jam '17 | Organiser  | I was very impressed with the quality of games that came out of out game jam. I feel privileged to have been able to give students the opportunity to collaborate over the weekend. [Games available here](http://globalgamejam.org/2017/jam-sites/city-university-london)|
+| Global Game Jam '17 | Organiser  | I was very impressed with the quality of games that came out of out game jam. I feel privileged to have been able to give students the opportunity to collaborate over the weekend. [Games available here](https://globalgamejam.org/2017/jam-sites/city-university-london/games)|
 | Durhack             | Hacker     | This weekend was spent familiarising myself with the CocoaPods package manager as well as running my introduction to iOS and Android workshops back-to-back!. I also enjoyed being so far north and meeting the only Uber driver in Durham, Russell!|
 | ICHack '17          | Hacker     | ICHack great! I helped a society member build a simple Pusher demonstration in Android as well as applying and preparing for internships.|
 | HackUPC Winter '17  | Hacker     | This was my first trip to Barcelona! Had fun exploring before and after the hackathon. During the hackathon my team and I built a [gif library](https://devpost.com/software/gif-palette). |
 | StudentHack V       | Volunteer  | I travelled up to Manchester with 7 other society members to help out the StudentHack team run an awesome hack. |
 | HackTheBurgh '17    | Hacker     | HTB was a great hackathon in an awesome city. I hacked my coursework this weekend. |
 | HackCity '17        | Organiser  | This was my first experience organising a 24 hour hackathon. Was fun and tiring, amazing to see everyones hacks at the end. We even had hackers from Edinburgh and France! I also had time to run my beginner iOS workshop|
-| MLH Prime           | Volunteer  | MLH Prime was held at Bloomberg LP's amazing London office. As well as helping out when needed I ran my iOS workshop for attendees.|
+| MLH Prime           | Volunteer  | MLH Prime was held at Bloomberg LP's amazing London office. As well as helping out when needed, I ran my iOS workshop for attendees.|
 | AnvilHack III       | Hacker     | It was great being back at AnvilHack. This time my team and I built a version of flappy bird that you controlled with your voice through a Twilio conference call. We won the prize for the best use of AWS. |
 | UKGovHack           | Hacker     | Worked on my Starling Bank Menu Bar app |
 | Zoo Hackathon '17   | Volunteer  | Returned to the Zoo this year to lend a hand. |
@@ -33,6 +33,11 @@ I have attended 30 hackathons and game jams. 17 as a participant, 9 as a mentor/
 | AstonHack 3         | Hacker     | Spent the weekend 3D printing and learning quite a bit about dinosaurs.|
 | Junction 2017       | Hacker     | Great to visit Helsinki and spend some time exploring. During the hackathon we built a Spotify jukebox on the Ethereum blockchain network. |
 | Local Hack Day '17  | Organiser  | Was good to see some new society committee members run their first hackathon and see lots of new hackers get started! |
+| Royal Hackaway      | Mentor     | Great to see a new london hack start up. I was around to run my API workshop using [Glitch](https://twitter-info.glitch.me).  |
+| Global Game Jam '18 | Organiser  | This was my 3rd GGJ at City now, lots of new faces and awesome games. [Games available here](https://globalgamejam.org/2018/jam-sites/city-university-london/games)|
+| HackCity '18        | Organiser  | HackCity was back again in 2018. This time I let the new team of organisers take charge in delivering the event and made myself available for questions. The event was well recieved, we has hackers come from all over the UK as well as Barcelonba this year, upped our swag game and used a new space within the Uni.  |
+| HackCU IV           | Hacker     | This was my first US hackathon. Boulder was alright (a bit than that). Had time to go for a sunrise hike and go on a mini road trip    |
+
 
 Please feel free to fork this repo and start your own list! If you need any help tweet me: [@abdulajet](http://twitter.com/abdulajet)
 
