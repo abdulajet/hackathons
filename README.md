@@ -36,7 +36,7 @@ I have attended 34 hackathons and game jams. 18 as a participant, 10 as a mentor
 | Royal Hackaway      | Mentor     | Great to see a new london hack start up. I was around to run my API workshop using [Glitch](https://twitter-info.glitch.me).  |
 | Global Game Jam '18 | Organiser  | This was my 3rd GGJ at City now, lots of new faces and awesome games. [Games available here](https://globalgamejam.org/2018/jam-sites/city-university-london/games)|
 | HackCity '18        | Organiser  | HackCity was back again in 2018. This time I let the new team of organisers take charge in delivering the event and made myself available for questions. The event was well recieved, we has hackers come from all over the UK as well as Barcelona this year, upped our swag game and used a new space within the Uni.  |
-| HackCU IV           | Hacker     | This was my first US hackathon. Boulder was alright (a bit than that). Had time to go for a sunrise hike and go on a mini road trip. I was tricked into working on a [blockchain hack](https://devpost.com/software/yaba) again.    |
+| HackCU IV           | Hacker     | This was my first US hackathon. Boulder was alright (a bit more than that). Had time to go for a sunrise hike and go on a mini road trip. I was tricked into working on a [blockchain hack](https://devpost.com/software/yaba) again.    |
 
 
 Please feel free to fork this repo and start your own list! If you need any help tweet me: [@abdulajet](http://twitter.com/abdulajet)
