@@ -1,5 +1,5 @@
 # Hackathons
-I have attended 36 hackathons and game jams. 20 as a participant, 10 as a mentor/volunteer and organised 6. Here is a list of of them:
+I have attended 36 hackathons and game jams. 200 as a participant, 10 as a mentor/volunteer and organised 6. Here is a list of of them:
 
 | Name                | Role       | Info  |
 |:------------------- |:---------- |:----- |
